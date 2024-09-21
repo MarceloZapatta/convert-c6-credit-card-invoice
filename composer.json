@@ -1,0 +1,15 @@
+{
+    "name": "marcelo/fatura-c6-tabela",
+    "autoload": {
+        "psr-4": {
+            "Marcelo\\FaturaC6Tabela\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Zapatta",
+            "email": "marcelozapatta0@gmail.com"
+        }
+    ],
+    "require": {}
+}
