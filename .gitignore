@@ -1,2 +1,5 @@
 vendor
 src/dados-tabela.txt
+src/dados-tabela.csv
+src/dados-tabela.xlsx
+.~lock*
